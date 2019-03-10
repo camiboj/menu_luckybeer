@@ -1,3 +1,3 @@
 # Lucky Beer
 
-[Menu Cerbezas](lucky_cervezas.pdf)
+[Menu Cervezas](lucky_cervezas.pdf)
